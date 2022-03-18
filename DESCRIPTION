@@ -1,0 +1,11 @@
+Package: Mzalivaka
+Title: Calculating a Car’s Trip Cost 
+Version: 0.1
+Date: 03-17-2022
+Authors@R: Maria Zalivaka 
+Description: Provides functions that calculate how much a trip costs based on  different variables. For example, based on car type, state, and miles traveled or based on miles traveled and miles per gallon. 
+Depends:
+ R (>= 3.1.2)
+ dplyr (>= 1.0.8)
+License: MIT + file LICENSE
+LazyData: true
