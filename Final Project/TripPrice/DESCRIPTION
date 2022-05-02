@@ -1,0 +1,10 @@
+Package: TripPrice
+Type: Package
+Title: Calculating a Car’s Trip Cost 
+Version: 0.1.0
+Author: Maria Zalivaka 
+Description: Provides functions that calculate how much a trip costs based on different variables. For example, based on car type, state, and miles traveled or based on miles traveled and miles per gallon. 
+Depends:dplyr (>= 1.0.7)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
